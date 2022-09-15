@@ -7,6 +7,7 @@
 - Typescript
 - React JS
 - Tailwind CSS
+- Radix-UI
 - React Native
 - Node JS
 - SQL Lite
