@@ -18,10 +18,6 @@ export default function App() {
     Inter_900Black 
   });
 
-  useEffect(() => {
-
-  }, []);
-  
   return (
     <Background>
       <StatusBar 
@@ -29,6 +25,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
+       
       { fontsLoaded ? <Routes /> : <Loading/> }
     </Background>
   );

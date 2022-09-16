@@ -8,9 +8,11 @@
 - React JS
 - Tailwind CSS
 - Radix-UI
+- Expo 
 - React Native
 - Node JS
 - SQL Lite
 - Prisma
+- Push Notifications
 
-### Em Desenvolvimento
+
